@@ -78,7 +78,7 @@ I have no idea what you are talking about
 
 -----------------------------------------------------------------------------------------------------------------
 Running the Application:
-1. Run the SampleMain.java to run the application.
+Run the SampleMain.java to run the application.
 
 Input for the Application:
 Edit the file "SampleInput.txt" to give Inputs.
