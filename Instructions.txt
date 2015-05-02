@@ -1,0 +1,40 @@
+Instructions:
+-------------
+Please find the below general instruction to run the application.
+
+Note: The Input values are case sensitive.
+
+Sample Input:
+-------------
+glob is I
+prok is V
+pish is X
+tegj is L
+glob glob Silver is 34 Credits
+glob prok Gold is 57800 Credits
+pish pish Iron is 3910 Credits
+how much is pish tegj glob glob ?
+how many Credits is glob prok Silver ?
+how many Credits is glob prok Gold ?
+how many Credits is glob prok Iron ?
+how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
+
+Please find the above sample inputs. 
+
+----------------------------------------------------------------------------------------------------------------------
+Points to remember:
+1. Assigning the galactic unit should be seperated by space with 'is' inbetween the galactic unit and the assigned roman values.
+eg: glob is I
+
+2. This application first converts the assigned galactic units to roman values and then find the result from the roman values.So please assign galactic units and then find the result using the galactic units. The galactic unit will be converted to arabic values as a result.
+
+for example:
+glob is I
+prok is V
+how much is glob prok ?
+
+---------------------------------------------------------------------------------------------------------------------
+Note: 
+1.Galactic unit - glob in the above example
+2. Arabic value - 34, 57800 etc.
+3. Roman value - I,V,X,L etc.
